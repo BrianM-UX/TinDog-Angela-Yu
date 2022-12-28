@@ -131,11 +131,16 @@ nav-link {
 
 
 /* Call to Action*/
-
+#cta {
+    text-align: center;
+}
 
 
 /*Footer*/
 
+#footer {
+    text-align: center;
+}
 
 /*Desktop*/
 
